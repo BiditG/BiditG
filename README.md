@@ -5,15 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biditg" alt="biditg" /></a> </p>
 
-- 🔭 I’m currently working on **Ai projects**
-
 - 🌱 I’m currently learning **Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on **startups and innovative projects**
 
 - 📫 How to reach me **biditgiri123@gmail.com**
 
-- ⚡ Fun fact **I think my guitar's broken**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
