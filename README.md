@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bidit</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=BiditG&theme=algolia" alt="biditg" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=BiditG&theme=algolia&column=3&margin-w=15&margin-h=15" alt="biditg" /> </p>
 
 
 - 🌱 I’m currently learning **Artificial Intelligence**
