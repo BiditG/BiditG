@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=BiditG&theme=algolia" alt="biditg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biditg" alt="biditg" /></a> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
